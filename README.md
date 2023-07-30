@@ -21,7 +21,7 @@ npm: It comes bundled with Node.js.
 ### ⚙️ Installing
 Clone the repository to your local machine:
 ````
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/aniketyadavv/weather-app.git
 ````
 Navigate to the project directory:
 ````
