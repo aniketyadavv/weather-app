@@ -1,12 +1,42 @@
-# Getting Started with Create React App
+# Weather App ☁️
+This is a simple React application that allows users to search for the weather information of a location. It provides weather data such as temperature, wind speed, and humidity based on the user's search input.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features 💡
 
-## Available Scripts
+:star: Search for weather information of any location.
 
-In the project directory, you can run:
+:star: Display the current temperature, wind speed, and humidity.
 
-### `npm start`
+:star: Responsive design to fit all screen sizes.
+
+## How to Run the Application 🏃🏽💨
+### Prerequisites
+ 
+Before running the application, make sure you have Node.js and npm (Node Package Manager) installed on your machine.
+ 
+Node.js: https://nodejs.org/
+
+npm: It comes bundled with Node.js.
+
+### Installing
+Clone the repository to your local machine:
+````
+git clone https://github.com/your-username/weather-app.git
+````
+Navigate to the project directory:
+````
+cd weather-app
+````
+Install the required dependencies:
+````
+npm install
+````
+### Running the Application
+To run the application locally, execute the following command:
+
+````
+npm start
+````
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
